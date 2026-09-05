@@ -204,7 +204,6 @@ All seeded users share the password: `password`
 |------|-------|------|
 | System Admin | admin@incidentlog.com | admin |
 | Alice Operator | alice@incidentlog.com | operator |
-| Bob Operator | bob@incidentlog.com | operator |
 | Charlie Reporter | charlie@incidentlog.com | reporter |
 | Diana Reporter | diana@incidentlog.com | reporter |
 
